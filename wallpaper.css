@@ -31,7 +31,8 @@
  }
 
  .color-slider-container {
-     width: 70%
+     width: 70%;
+     opacity: 0.1;
  }
 
  .color-value {
